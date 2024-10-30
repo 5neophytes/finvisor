@@ -1,0 +1,25 @@
+{
+    "Stock Summary": {
+        "Last 5 closing prices": [
+            162.14,
+            163.59,
+            161.85,
+            162.29,
+            161.49
+        ],
+        "Latest closing price": 161.49,
+        "20-day moving average": 157.9605,
+        "50-day moving average": 163.759,
+        "Average trading volume": 24932299.64
+    },
+    "AI Advice": {
+        "Key Metrics": "- Last 5 closing prices: [162.14 163.59 161.85 162.29 161.49]\n- Latest closing price: 161.49\n- 20-day moving average: 157.9605\n- 50-day moving average: 163.759\n- Average trading volume: 24932299.64",
+        "Price and Moving Averages": "The latest closing price of the stock is 161.49, comfortably above the 20-day moving average of 157.9605. This suggests that the stock\u2019s price has been trending up in the short-term. However, its price is below the 50-day moving average of 163.759, indicating a potentially downtrend in the longer-term view.",
+        "Volume": "The trading volume of nearly 25 million indicates a high level of interest and liquidity in the stock. Therefore, it would be relatively easy to buy or sell the stock without significantly affecting its price.",
+        "Short-term Trend": "Over the last five trading days, the closing prices have been volatile with a very slight downward trend, from 162.14 to 161.49. Although there is no definitive trend in this short snapshot, the stock has shown the ability to bounce back from small declines.",
+        "Buy Advice": "Considering the current stock price is above the 20-day moving average and given the high trading volume, it could be a good time to purchase a portion of the stock depending on the student's budget and risk tolerance. However, the student may want to wait for a more definitive upward trend to form before investing heavily.",
+        "Hold or Sell Advice": "If the student currently owns the stock, given that the price is steady and the short-term moving average is trending up, the advice would be to hold.",
+        "Other Factors": "Other factors that should be considered are the stock's fundamentals, such as earnings growth and price-earnings ratio. News and events affecting the company and the industry should also be monitored closely.",
+        "Conclusion": "Based on the key metrics, moving averages, price, and volume, the stock is more likely to be a buy for the short-term, keeping the investment amount in check as per one's risk tolerance. In case of already owning the stock, it would be advisable to hold on to it. However, constant vigilance on the market conditions and evolving news about the company need to be watched as they can have substantial impact on the stock's performance."
+    }
+}
